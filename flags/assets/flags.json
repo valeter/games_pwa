@@ -1,0 +1,3752 @@
+[
+  {
+    "img": {
+      "top": 0,
+      "bottom": 427,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Афганистан",
+      "en": "Afghanistan",
+      "es": "Afganistán",
+      "cn": "阿富汗",
+      "fr": "Afghanistan"
+    }
+  },
+  {
+    "img": {
+      "top": 427,
+      "bottom": 884,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Албания",
+      "en": "Albania",
+      "es": "Albania",
+      "cn": "阿尔巴尼亚",
+      "fr": "Albanie"
+    }
+  },
+  {
+    "img": {
+      "top": 884,
+      "bottom": 1311,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Алжир",
+      "en": "Algeria",
+      "es": "Argelia",
+      "cn": "阿尔及利亚",
+      "fr": "Algérie"
+    }
+  },
+  {
+    "img": {
+      "top": 1311,
+      "bottom": 1631,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Американское Самоа",
+      "en": "American Samoa",
+      "es": "Samoa Americana",
+      "cn": "美属萨摩亚",
+      "fr": "Samoa américaines"
+    }
+  },
+  {
+    "img": {
+      "top": 1631,
+      "bottom": 2079,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Андорра",
+      "en": "Andorra",
+      "es": "Andorra",
+      "cn": "安道尔",
+      "fr": "Andorre"
+    }
+  },
+  {
+    "img": {
+      "top": 2079,
+      "bottom": 2506,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ангола",
+      "en": "Angola",
+      "es": "Angola",
+      "cn": "安哥拉",
+      "fr": "Angola"
+    }
+  },
+  {
+    "img": {
+      "top": 2506,
+      "bottom": 2826,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ангилья",
+      "en": "Anguilla",
+      "es": "Anguilla",
+      "cn": "安圭拉",
+      "fr": "Anguilla"
+    }
+  },
+  {
+    "img": {
+      "top": 2826,
+      "bottom": 3253,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Антарктида",
+      "en": "Antarctica",
+      "es": "Antártida",
+      "cn": "南极洲",
+      "fr": "Antarctique"
+    }
+  },
+  {
+    "img": {
+      "top": 3253,
+      "bottom": 3680,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Антигуа и Барбуда",
+      "en": "Antigua and Barbuda",
+      "es": "Antigua y Barbuda",
+      "cn": "安提瓜和巴布达",
+      "fr": "Antigua-et-Barbuda"
+    }
+  },
+  {
+    "img": {
+      "top": 3680,
+      "bottom": 4080,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Аргентина",
+      "en": "Argentina",
+      "es": "Argentina",
+      "cn": "阿根廷",
+      "fr": "Argentine"
+    }
+  },
+  {
+    "img": {
+      "top": 4080,
+      "bottom": 4400,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Армения",
+      "en": "Armenia",
+      "es": "Armenia",
+      "cn": "亚美尼亚",
+      "fr": "Arménie"
+    }
+  },
+  {
+    "img": {
+      "top": 4400,
+      "bottom": 4827,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Аруба",
+      "en": "Aruba",
+      "es": "Aruba",
+      "cn": "阿鲁巴",
+      "fr": "Aruba"
+    }
+  },
+  {
+    "img": {
+      "top": 4827,
+      "bottom": 5339,
+      "left": 0,
+      "right": 1024
+    },
+    "name": {
+      "ru": "Австралия",
+      "en": "Australia",
+      "es": "Australia",
+      "cn": "澳大利亚",
+      "fr": "Australie"
+    }
+  },
+  {
+    "img": {
+      "top": 5339,
+      "bottom": 5766,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Австрия",
+      "en": "Austria",
+      "es": "Austria",
+      "cn": "奥地利",
+      "fr": "Autriche"
+    }
+  },
+  {
+    "img": {
+      "top": 5766,
+      "bottom": 6086,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Азербайджан",
+      "en": "Azerbaijan",
+      "es": "Azerbaiyán",
+      "cn": "阿塞拜疆",
+      "fr": "Azerbaïdjan"
+    }
+  },
+  {
+    "img": {
+      "top": 6086,
+      "bottom": 6406,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Багамские Острова",
+      "en": "Bahamas",
+      "es": "Bahamas",
+      "cn": "巴哈马",
+      "fr": "Bahamas"
+    }
+  },
+  {
+    "img": {
+      "top": 6406,
+      "bottom": 6790,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бахрейн",
+      "en": "Bahrain",
+      "es": "Bahrein",
+      "cn": "巴林",
+      "fr": "Bahreïn"
+    }
+  },
+  {
+    "img": {
+      "top": 6790,
+      "bottom": 7174,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бангладеш",
+      "en": "Bangladesh",
+      "es": "Bangladesh",
+      "cn": "孟加拉国",
+      "fr": "Bangladesh"
+    }
+  },
+  {
+    "img": {
+      "top": 7174,
+      "bottom": 7601,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Барбадос",
+      "en": "Barbados",
+      "es": "Barbados",
+      "cn": "巴巴多斯",
+      "fr": "Barbade"
+    }
+  },
+  {
+    "img": {
+      "top": 7601,
+      "bottom": 7921,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Беларусь",
+      "en": "Belarus",
+      "es": "Bielorrusia",
+      "cn": "白俄罗斯",
+      "fr": "Biélorussie"
+    }
+  },
+  {
+    "img": {
+      "top": 7921,
+      "bottom": 8476,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бельгия",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "cn": "比利时",
+      "fr": "Belgique"
+    }
+  },
+  {
+    "img": {
+      "top": 8476,
+      "bottom": 8860,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Белиз",
+      "en": "Belize",
+      "es": "Belice",
+      "cn": "伯利兹",
+      "fr": "Belize"
+    }
+  },
+  {
+    "img": {
+      "top": 8860,
+      "bottom": 9287,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бенин",
+      "en": "Benin",
+      "es": "Benín",
+      "cn": "贝宁",
+      "fr": "Bénin"
+    }
+  },
+  {
+    "img": {
+      "top": 9287,
+      "bottom": 9607,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бермудские Острова",
+      "en": "Bermuda",
+      "es": "Bermudas",
+      "cn": "百慕大",
+      "fr": "Bermudes"
+    }
+  },
+  {
+    "img": {
+      "top": 9607,
+      "bottom": 10034,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бутан",
+      "en": "Bhutan",
+      "es": "Bután",
+      "cn": "不丹",
+      "fr": "Bhoutan"
+    }
+  },
+  {
+    "img": {
+      "top": 10034,
+      "bottom": 10470,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Боливия",
+      "en": "Bolivia",
+      "es": "Bolivia",
+      "cn": "玻利维亚",
+      "fr": "Bolivie"
+    }
+  },
+  {
+    "img": {
+      "top": 10470,
+      "bottom": 10790,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Босния и Герцеговина",
+      "en": "Bosnia and Herzegovina",
+      "es": "Bosnia y Herzegovina",
+      "cn": "波斯尼亚和黑塞哥维那",
+      "fr": "Bosnie-Herzégovine"
+    }
+  },
+  {
+    "img": {
+      "top": 10790,
+      "bottom": 11217,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ботсвана",
+      "en": "Botswana",
+      "es": "Botswana",
+      "cn": "博茨瓦纳",
+      "fr": "Botswana"
+    }
+  },
+  {
+    "img": {
+      "top": 11217,
+      "bottom": 11682,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Остров Буве",
+      "en": "Bouvet Island",
+      "es": "Isla Bouvet",
+      "cn": "布维岛",
+      "fr": "Île Bouvet"
+    }
+  },
+  {
+    "img": {
+      "top": 11682,
+      "bottom": 12130,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бразилия",
+      "en": "Brazil",
+      "es": "Brasil",
+      "cn": "巴西",
+      "fr": "Brésil"
+    }
+  },
+  {
+    "img": {
+      "top": 12130,
+      "bottom": 12450,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Британская территория в Индийском океане",
+      "en": "British Indian Ocean Territory",
+      "es": "Territorio Británico del Océano Índico",
+      "cn": "英属印度洋领地",
+      "fr": "Territoire britannique de l'océan Indien"
+    }
+  },
+  {
+    "img": {
+      "top": 12450,
+      "bottom": 12770,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Британские Виргинские острова",
+      "en": "British Virgin Islands",
+      "es": "Islas Vírgenes del Reino Unido",
+      "cn": "英属维尔京群岛",
+      "fr": "Îles Vierges britanniques"
+    }
+  },
+  {
+    "img": {
+      "top": 12770,
+      "bottom": 13090,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бруней",
+      "en": "Brunei",
+      "es": "Brunei",
+      "cn": "文莱",
+      "fr": "Brunei"
+    }
+  },
+  {
+    "img": {
+      "top": 13090,
+      "bottom": 13474,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Болгария",
+      "en": "Bulgaria",
+      "es": "Bulgaria",
+      "cn": "保加利亚",
+      "fr": "Bulgarie"
+    }
+  },
+  {
+    "img": {
+      "top": 13474,
+      "bottom": 13900,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Буркина-Фасо",
+      "en": "Burkina Faso",
+      "es": "Burkina Faso",
+      "cn": "布基纳法索",
+      "fr": "Burkina Faso"
+    }
+  },
+  {
+    "img": {
+      "top": 13900,
+      "bottom": 14284,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Бурунди",
+      "en": "Burundi",
+      "es": "Burundi",
+      "cn": "布隆迪",
+      "fr": "Burundi"
+    }
+  },
+  {
+    "img": {
+      "top": 14284,
+      "bottom": 14694,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Камбоджа",
+      "en": "Cambodia",
+      "es": "Camboya",
+      "cn": "柬埔寨",
+      "fr": "Cambodge"
+    }
+  },
+  {
+    "img": {
+      "top": 14694,
+      "bottom": 15121,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Камерун",
+      "en": "Cameroon",
+      "es": "Camerún",
+      "cn": "喀麦隆",
+      "fr": "Cameroun"
+    }
+  },
+  {
+    "img": {
+      "top": 15121,
+      "bottom": 15441,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Канада",
+      "en": "Canada",
+      "es": "Canadá",
+      "cn": "加拿大",
+      "fr": "Canada"
+    }
+  },
+  {
+    "img": {
+      "top": 15441,
+      "bottom": 15817,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кабо-Верде",
+      "en": "Cape Verde",
+      "es": "Cabo Verde",
+      "cn": "佛得角",
+      "fr": "Îles du Cap-Vert"
+    }
+  },
+  {
+    "img": {
+      "top": 15817,
+      "bottom": 16244,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Карибские Нидерланды",
+      "en": "Caribbean Netherlands",
+      "es": "Caribe Neerlandés",
+      "cn": "荷蘭加勒比區",
+      "fr": "Pays-Bas caribéens"
+    }
+  },
+  {
+    "img": {
+      "top": 16244,
+      "bottom": 16564,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Каймановы острова",
+      "en": "Cayman Islands",
+      "es": "Islas Caimán",
+      "cn": "开曼群岛",
+      "fr": "Îles Caïmans"
+    }
+  },
+  {
+    "img": {
+      "top": 16564,
+      "bottom": 16991,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Центральноафриканская Республика",
+      "en": "Central African Republic",
+      "es": "República Centroafricana",
+      "cn": "中非共和国",
+      "fr": "République centrafricaine"
+    }
+  },
+  {
+    "img": {
+      "top": 16991,
+      "bottom": 17418,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Чад",
+      "en": "Chad",
+      "es": "Chad",
+      "cn": "乍得",
+      "fr": "Tchad"
+    }
+  },
+  {
+    "img": {
+      "top": 17418,
+      "bottom": 17845,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Чили",
+      "en": "Chile",
+      "es": "Chile",
+      "cn": "智利",
+      "fr": "Chili"
+    }
+  },
+  {
+    "img": {
+      "top": 17845,
+      "bottom": 18272,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Народная Республика Китай",
+      "en": "People's Republic of China",
+      "es": "República Popular de China",
+      "cn": "中华人民共和国",
+      "fr": "République populaire de Chine"
+    }
+  },
+  {
+    "img": {
+      "top": 18272,
+      "bottom": 18592,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Остров Рождества",
+      "en": "Christmas Island",
+      "es": "Isla de Navidad",
+      "cn": "圣诞岛",
+      "fr": "Île Christmas"
+    }
+  },
+  {
+    "img": {
+      "top": 18592,
+      "bottom": 18912,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кокосовые острова",
+      "en": "Cocos (Keeling) Islands",
+      "es": "Islas Cocos o Islas Keeling",
+      "cn": "科科斯",
+      "fr": "Îles Cocos"
+    }
+  },
+  {
+    "img": {
+      "top": 18912,
+      "bottom": 19339,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Колумбия",
+      "en": "Colombia",
+      "es": "Colombia",
+      "cn": "哥伦比亚",
+      "fr": "Colombie"
+    }
+  },
+  {
+    "img": {
+      "top": 19339,
+      "bottom": 19723,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Коморы",
+      "en": "Comoros",
+      "es": "Comoras",
+      "cn": "科摩罗",
+      "fr": "Comores"
+    }
+  },
+  {
+    "img": {
+      "top": 19723,
+      "bottom": 20043,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Острова Кука",
+      "en": "Cook Islands",
+      "es": "Islas Cook",
+      "cn": "库克群岛",
+      "fr": "Îles Cook"
+    }
+  },
+  {
+    "img": {
+      "top": 20043,
+      "bottom": 20427,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Коста-Рика",
+      "en": "Costa Rica",
+      "es": "Costa Rica",
+      "cn": "哥斯达黎加",
+      "fr": "Costa Rica"
+    }
+  },
+  {
+    "img": {
+      "top": 20427,
+      "bottom": 20747,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Хорватия",
+      "en": "Croatia",
+      "es": "Croacia",
+      "cn": "克罗地亚",
+      "fr": "Croatie"
+    }
+  },
+  {
+    "img": {
+      "top": 20747,
+      "bottom": 21174,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кот-д’Ивуар",
+      "en": "Ivory Coast",
+      "es": "Costa de Marfil",
+      "cn": "科特迪瓦",
+      "fr": "Côte d'Ivoire"
+    }
+  },
+  {
+    "img": {
+      "top": 21174,
+      "bottom": 21494,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Куба",
+      "en": "Cuba",
+      "es": "Cuba",
+      "cn": "古巴",
+      "fr": "Cuba"
+    }
+  },
+  {
+    "img": {
+      "top": 21494,
+      "bottom": 21921,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кюрасао",
+      "en": "Curaçao",
+      "es": "Curazao",
+      "cn": "库拉索",
+      "fr": "Curaçao"
+    }
+  },
+  {
+    "img": {
+      "top": 21921,
+      "bottom": 22348,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кипр",
+      "en": "Cyprus",
+      "es": "Chipre",
+      "cn": "塞浦路斯",
+      "fr": "Chypre"
+    }
+  },
+  {
+    "img": {
+      "top": 22348,
+      "bottom": 22775,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Чехия",
+      "en": "Czechia",
+      "es": "Chequia",
+      "cn": "捷克",
+      "fr": "Tchéquie"
+    }
+  },
+  {
+    "img": {
+      "top": 22775,
+      "bottom": 23255,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Демократическая Республика Конго",
+      "en": "DR Congo",
+      "es": "Congo (Rep. Dem.)",
+      "cn": "民主刚果",
+      "fr": "Congo (Rép. dém.)"
+    }
+  },
+  {
+    "img": {
+      "top": 23255,
+      "bottom": 23739,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Дания",
+      "en": "Denmark",
+      "es": "Dinamarca",
+      "cn": "丹麦",
+      "fr": "Danemark"
+    }
+  },
+  {
+    "img": {
+      "top": 23739,
+      "bottom": 24166,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Джибути",
+      "en": "Djibouti",
+      "es": "Djibouti",
+      "cn": "吉布提",
+      "fr": "Djibouti"
+    }
+  },
+  {
+    "img": {
+      "top": 24166,
+      "bottom": 24593,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Доминиканская Республика",
+      "en": "Dominican Republic",
+      "es": "República Dominicana",
+      "cn": "多明尼加",
+      "fr": "République dominicaine"
+    }
+  },
+  {
+    "img": {
+      "top": 24593,
+      "bottom": 24913,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Доминиканская Республика",
+      "en": "Dominican Republic",
+      "es": "República Dominicana",
+      "cn": "多明尼加",
+      "fr": "République dominicaine"
+    }
+  },
+  {
+    "img": {
+      "top": 24913,
+      "bottom": 25340,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Эквадор",
+      "en": "Ecuador",
+      "es": "Ecuador",
+      "cn": "厄瓜多尔",
+      "fr": "Équateur"
+    }
+  },
+  {
+    "img": {
+      "top": 25340,
+      "bottom": 25767,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Египет",
+      "en": "Egypt",
+      "es": "Egipto",
+      "cn": "埃及",
+      "fr": "Égypte"
+    }
+  },
+  {
+    "img": {
+      "top": 25767,
+      "bottom": 26128,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сальвадор",
+      "en": "El Salvador",
+      "es": "El Salvador",
+      "cn": "萨尔瓦多",
+      "fr": "Salvador"
+    }
+  },
+  {
+    "img": {
+      "top": 26512,
+      "bottom": 26939,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Экваториальная Гвинея",
+      "en": "Equatorial Guinea",
+      "es": "Guinea Ecuatorial",
+      "cn": "赤道几内亚",
+      "fr": "Guinée équatoriale"
+    }
+  },
+  {
+    "img": {
+      "top": 26939,
+      "bottom": 27259,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Эритрея",
+      "en": "Eritrea",
+      "es": "Eritrea",
+      "cn": "厄立特里亚",
+      "fr": "Érythrée"
+    }
+  },
+  {
+    "img": {
+      "top": 27259,
+      "bottom": 27666,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Эстония",
+      "en": "Estonia",
+      "es": "Estonia",
+      "cn": "爱沙尼亚",
+      "fr": "Estonie"
+    }
+  },
+  {
+    "img": {
+      "top": 27666,
+      "bottom": 28093,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Свазиленд",
+      "en": "Eswatini",
+      "es": "Suazilandia",
+      "cn": "斯威士兰",
+      "fr": "Swaziland"
+    }
+  },
+  {
+    "img": {
+      "top": 28093,
+      "bottom": 28413,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Эфиопия",
+      "en": "Ethiopia",
+      "es": "Etiopía",
+      "cn": "埃塞俄比亚",
+      "fr": "Éthiopie"
+    }
+  },
+  {
+    "img": {
+      "top": 28413,
+      "bottom": 28733,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Фолклендские острова",
+      "en": "Falkland Islands",
+      "es": "Islas Malvinas",
+      "cn": "福克兰群岛",
+      "fr": "Îles Malouines"
+    }
+  },
+  {
+    "img": {
+      "top": 28733,
+      "bottom": 29198,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Фарерские острова",
+      "en": "Faroe Islands",
+      "es": "Islas Faroe",
+      "cn": "法罗群岛",
+      "fr": "Îles Féroé"
+    }
+  },
+  {
+    "img": {
+      "top": 29198,
+      "bottom": 29518,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Фиджи",
+      "en": "Fiji",
+      "es": "Fiyi",
+      "cn": "斐济",
+      "fr": "Fidji"
+    }
+  },
+  {
+    "img": {
+      "top": 29518,
+      "bottom": 29909,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Финляндия",
+      "en": "Finland",
+      "es": "Finlandia",
+      "cn": "芬兰",
+      "fr": "Finlande"
+    }
+  },
+  {
+    "img": {
+      "top": 29909,
+      "bottom": 30336,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Франция",
+      "en": "France",
+      "es": "Francia",
+      "cn": "法国",
+      "fr": "France"
+    }
+  },
+  {
+    "img": {
+      "top": 30336,
+      "bottom": 30763,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Французская Гвиана",
+      "en": "French Guiana",
+      "es": "Guayana Francesa",
+      "cn": "法属圭亚那",
+      "fr": "Guyane"
+    }
+  },
+  {
+    "img": {
+      "top": 30763,
+      "bottom": 31190,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Французская Полинезия",
+      "en": "French Polynesia",
+      "es": "Polinesia Francesa",
+      "cn": "法属波利尼西亚",
+      "fr": "Polynésie française"
+    }
+  },
+  {
+    "img": {
+      "top": 31190,
+      "bottom": 31617,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Французские Южные и Антарктические территории",
+      "en": "French Southern and Antarctic Lands",
+      "es": "Tierras Australes y Antárticas Francesas",
+      "cn": "法国南部和南极土地",
+      "fr": "Terres australes et antarctiques françaises"
+    }
+  },
+  {
+    "img": {
+      "top": 31617,
+      "bottom": 32097,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Габон",
+      "en": "Gabon",
+      "es": "Gabón",
+      "cn": "加蓬",
+      "fr": "Gabon"
+    }
+  },
+  {
+    "img": {
+      "top": 32097,
+      "bottom": 32524,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гамбия",
+      "en": "Gambia",
+      "es": "Gambia",
+      "cn": "冈比亚",
+      "fr": "Gambie"
+    }
+  },
+  {
+    "img": {
+      "top": 32524,
+      "bottom": 32951,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Грузия",
+      "en": "Georgia",
+      "es": "Georgia",
+      "cn": "格鲁吉亚",
+      "fr": "Géorgie"
+    }
+  },
+  {
+    "img": {
+      "top": 32951,
+      "bottom": 33335,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Германия",
+      "en": "Germany",
+      "es": "Alemania",
+      "cn": "德国",
+      "fr": "Allemagne"
+    }
+  },
+  {
+    "img": {
+      "top": 33335,
+      "bottom": 33762,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гана",
+      "en": "Ghana",
+      "es": "Ghana",
+      "cn": "加纳",
+      "fr": "Ghana"
+    }
+  },
+  {
+    "img": {
+      "top": 33762,
+      "bottom": 34082,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гибралтар",
+      "en": "Gibraltar",
+      "es": "Gibraltar",
+      "cn": "直布罗陀",
+      "fr": "Gibraltar"
+    }
+  },
+  {
+    "img": {
+      "top": 34082,
+      "bottom": 34509,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Греция",
+      "en": "Greece",
+      "es": "Grecia",
+      "cn": "希腊",
+      "fr": "Grèce"
+    }
+  },
+  {
+    "img": {
+      "top": 34509,
+      "bottom": 34936,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гренландия",
+      "en": "Greenland",
+      "es": "Groenlandia",
+      "cn": "格陵兰",
+      "fr": "Groenland"
+    }
+  },
+  {
+    "img": {
+      "top": 34936,
+      "bottom": 35320,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гренада",
+      "en": "Grenada",
+      "es": "Grenada",
+      "cn": "格林纳达",
+      "fr": "Grenade"
+    }
+  },
+  {
+    "img": {
+      "top": 35320,
+      "bottom": 35747,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гваделупа",
+      "en": "Guadeloupe",
+      "es": "Guadalupe",
+      "cn": "瓜德罗普岛",
+      "fr": "Guadeloupe"
+    }
+  },
+  {
+    "img": {
+      "top": 35747,
+      "bottom": 36090,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гуам",
+      "en": "Guam",
+      "es": "Guam",
+      "cn": "关岛",
+      "fr": "Guam"
+    }
+  },
+  {
+    "img": {
+      "top": 36090,
+      "bottom": 36490,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гватемала",
+      "en": "Guatemala",
+      "es": "Guatemala",
+      "cn": "危地马拉",
+      "fr": "Guatemala"
+    }
+  },
+  {
+    "img": {
+      "top": 36490,
+      "bottom": 36917,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гернси",
+      "en": "Guernsey",
+      "es": "Guernsey",
+      "cn": "根西岛",
+      "fr": "Guernesey"
+    }
+  },
+  {
+    "img": {
+      "top": 36917,
+      "bottom": 37237,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гвинея-Бисау",
+      "en": "Guinea-Bissau",
+      "es": "Guinea-Bisáu",
+      "cn": "几内亚比绍",
+      "fr": "Guinée-Bissau"
+    }
+  },
+  {
+    "img": {
+      "top": 37237,
+      "bottom": 37664,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гвинея",
+      "en": "Guinea",
+      "es": "Guinea",
+      "cn": "几内亚",
+      "fr": "Guinée"
+    }
+  },
+  {
+    "img": {
+      "top": 37664,
+      "bottom": 38048,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гайана",
+      "en": "Guyana",
+      "es": "Guyana",
+      "cn": "圭亚那",
+      "fr": "Guyana"
+    }
+  },
+  {
+    "img": {
+      "top": 38048,
+      "bottom": 38432,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гаити",
+      "en": "Haiti",
+      "es": "Haití",
+      "cn": "海地",
+      "fr": "Haïti"
+    }
+  },
+  {
+    "img": {
+      "top": 38432,
+      "bottom": 38752,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Остров Херд и острова Макдональд",
+      "en": "Heard Island and McDonald Islands",
+      "es": "Islas Heard y McDonald",
+      "cn": "赫德岛和麦当劳群岛",
+      "fr": "Îles Heard-et-MacDonald"
+    }
+  },
+  {
+    "img": {
+      "top": 38752,
+      "bottom": 39072,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гондурас",
+      "en": "Honduras",
+      "es": "Honduras",
+      "cn": "洪都拉斯",
+      "fr": "Honduras"
+    }
+  },
+  {
+    "img": {
+      "top": 39072,
+      "bottom": 39499,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong",
+      "es": "Hong Kong",
+      "cn": "Hong Kong",
+      "fr": "Hong Kong"
+    }
+  },
+  {
+    "img": {
+      "top": 39499,
+      "bottom": 39819,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Венгрия",
+      "en": "Hungary",
+      "es": "Hungría",
+      "cn": "匈牙利",
+      "fr": "Hongrie"
+    }
+  },
+  {
+    "img": {
+      "top": 39819,
+      "bottom": 40280,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Исландия",
+      "en": "Iceland",
+      "es": "Islandia",
+      "cn": "冰岛",
+      "fr": "Islande"
+    }
+  },
+  {
+    "img": {
+      "top": 40280,
+      "bottom": 40707,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Индия",
+      "en": "India",
+      "es": "India",
+      "cn": "印度",
+      "fr": "Inde"
+    }
+  },
+  {
+    "img": {
+      "top": 40707,
+      "bottom": 41134,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Индонезия",
+      "en": "Indonesia",
+      "es": "Indonesia",
+      "cn": "印度尼西亚",
+      "fr": "Indonésie"
+    }
+  },
+  {
+    "img": {
+      "top": 41134,
+      "bottom": 41500,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Иран",
+      "en": "Iran",
+      "es": "Iran",
+      "cn": "伊朗",
+      "fr": "Iran"
+    }
+  },
+  {
+    "img": {
+      "top": 41500,
+      "bottom": 41927,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ирак",
+      "en": "Iraq",
+      "es": "Irak",
+      "cn": "伊拉克",
+      "fr": "Irak"
+    }
+  },
+  {
+    "img": {
+      "top": 41927,
+      "bottom": 42247,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ирландия",
+      "en": "Ireland",
+      "es": "Irlanda",
+      "cn": "爱尔兰",
+      "fr": "Irlande"
+    }
+  },
+  {
+    "img": {
+      "top": 42247,
+      "bottom": 42567,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Остров Мэн",
+      "en": "Isle of Man",
+      "es": "Isla de Man",
+      "cn": "马恩岛",
+      "fr": "Île de Man"
+    }
+  },
+  {
+    "img": {
+      "top": 42567,
+      "bottom": 43032,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Израиль",
+      "en": "Israel",
+      "es": "Israel",
+      "cn": "以色列",
+      "fr": "Israël"
+    }
+  },
+  {
+    "img": {
+      "top": 43032,
+      "bottom": 43459,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Италия",
+      "en": "Italy",
+      "es": "Italia",
+      "cn": "意大利",
+      "fr": "Italie"
+    }
+  },
+  {
+    "img": {
+      "top": 43459,
+      "bottom": 43779,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ямайка",
+      "en": "Jamaica",
+      "es": "Jamaica",
+      "cn": "牙买加",
+      "fr": "Jamaïque"
+    }
+  },
+  {
+    "img": {
+      "top": 43779,
+      "bottom": 44206,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Япония",
+      "en": "Japan",
+      "es": "Japón",
+      "cn": "日本",
+      "fr": "Japon"
+    }
+  },
+  {
+    "img": {
+      "top": 44206,
+      "bottom": 44590,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Джерси",
+      "en": "Jersey",
+      "es": "Jersey",
+      "cn": "泽西岛",
+      "fr": "Jersey"
+    }
+  },
+  {
+    "img": {
+      "top": 44590,
+      "bottom": 44910,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Иордания",
+      "en": "Jordan",
+      "es": "Jordania",
+      "cn": "约旦",
+      "fr": "Jordanie"
+    }
+  },
+  {
+    "img": {
+      "top": 44910,
+      "bottom": 45230,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "es": "Kazajistán",
+      "cn": "哈萨克斯坦",
+      "fr": "Kazakhstan"
+    }
+  },
+  {
+    "img": {
+      "top": 45230,
+      "bottom": 45657,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кения",
+      "en": "Kenya",
+      "es": "Kenia",
+      "cn": "肯尼亚",
+      "fr": "Kenya"
+    }
+  },
+  {
+    "img": {
+      "top": 45657,
+      "bottom": 45977,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кирибати",
+      "en": "Kiribati",
+      "es": "Kiribati",
+      "cn": "基里巴斯",
+      "fr": "Kiribati"
+    }
+  },
+  {
+    "img": {
+      "top": 45977,
+      "bottom": 46434,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Республика Косово",
+      "en": "Kosovo",
+      "es": "Kosovo",
+      "cn": "科索沃",
+      "fr": "Kosovo"
+    }
+  },
+  {
+    "img": {
+      "top": 46434,
+      "bottom": 46754,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Кувейт",
+      "en": "Kuwait",
+      "es": "Kuwait",
+      "cn": "科威特",
+      "fr": "Koweït"
+    }
+  },
+  {
+    "img": {
+      "top": 46754,
+      "bottom": 47138,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Киргизия",
+      "en": "Kyrgyzstan",
+      "es": "Kirguizistán",
+      "cn": "吉尔吉斯斯坦",
+      "fr": "Kirghizistan"
+    }
+  },
+  {
+    "img": {
+      "top": 47138,
+      "bottom": 47565,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Лаос",
+      "en": "Laos",
+      "es": "Laos",
+      "cn": "老挝",
+      "fr": "Laos"
+    }
+  },
+  {
+    "img": {
+      "top": 47565,
+      "bottom": 47885,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Латвия",
+      "en": "Latvia",
+      "es": "Letonia",
+      "cn": "拉脱维亚",
+      "fr": "Lettonie"
+    }
+  },
+  {
+    "img": {
+      "top": 47885,
+      "bottom": 48312,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ливан",
+      "en": "Lebanon",
+      "es": "Líbano",
+      "cn": "黎巴嫩",
+      "fr": "Liban"
+    }
+  },
+  {
+    "img": {
+      "top": 48312,
+      "bottom": 48739,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Лесото",
+      "en": "Lesotho",
+      "es": "Lesotho",
+      "cn": "莱索托",
+      "fr": "Lesotho"
+    }
+  },
+  {
+    "img": {
+      "top": 48739,
+      "bottom": 49076,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Либерия",
+      "en": "Liberia",
+      "es": "Liberia",
+      "cn": "利比里亚",
+      "fr": "Liberia"
+    }
+  },
+  {
+    "img": {
+      "top": 49076,
+      "bottom": 49396,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ливия",
+      "en": "Libya",
+      "es": "Libia",
+      "cn": "利比亚",
+      "fr": "Libye"
+    }
+  },
+  {
+    "img": {
+      "top": 49396,
+      "bottom": 49780,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Лихтенштейн",
+      "en": "Liechtenstein",
+      "es": "Liechtenstein",
+      "cn": "列支敦士登",
+      "fr": "Liechtenstein"
+    }
+  },
+  {
+    "img": {
+      "top": 49780,
+      "bottom": 50164,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Литва",
+      "en": "Lithuania",
+      "es": "Lituania",
+      "cn": "立陶宛",
+      "fr": "Lituanie"
+    }
+  },
+  {
+    "img": {
+      "top": 50164,
+      "bottom": 50548,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Люксембург",
+      "en": "Luxembourg",
+      "es": "Luxemburgo",
+      "cn": "卢森堡",
+      "fr": "Luxembourg"
+    }
+  },
+  {
+    "img": {
+      "top": 50548,
+      "bottom": 50975,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Макао",
+      "en": "Macau",
+      "es": "Macao",
+      "cn": "中华人民共和国澳门特别行政区",
+      "fr": "Macao"
+    }
+  },
+  {
+    "img": {
+      "top": 50975,
+      "bottom": 51402,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мадагаскар",
+      "en": "Madagascar",
+      "es": "Madagascar",
+      "cn": "马达加斯加",
+      "fr": "Madagascar"
+    }
+  },
+  {
+    "img": {
+      "top": 51402,
+      "bottom": 51829,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Малави",
+      "en": "Malawi",
+      "es": "Malawi",
+      "cn": "马拉维",
+      "fr": "Malawi"
+    }
+  },
+  {
+    "img": {
+      "top": 51829,
+      "bottom": 52149,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Малайзия",
+      "en": "Malaysia",
+      "es": "Malasia",
+      "cn": "马来西亚",
+      "fr": "Malaisie"
+    }
+  },
+  {
+    "img": {
+      "top": 52149,
+      "bottom": 52576,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мальдивы",
+      "en": "Maldives",
+      "es": "Maldivas",
+      "cn": "马尔代夫",
+      "fr": "Maldives"
+    }
+  },
+  {
+    "img": {
+      "top": 52576,
+      "bottom": 53003,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мали",
+      "en": "Mali",
+      "es": "Mali",
+      "cn": "马里",
+      "fr": "Mali"
+    }
+  },
+  {
+    "img": {
+      "top": 53003,
+      "bottom": 53430,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мальта",
+      "en": "Malta",
+      "es": "Malta",
+      "cn": "马耳他",
+      "fr": "Malte"
+    }
+  },
+  {
+    "img": {
+      "top": 53430,
+      "bottom": 53767,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Маршалловы Острова",
+      "en": "Marshall Islands",
+      "es": "Islas Marshall",
+      "cn": "马绍尔群岛",
+      "fr": "Îles Marshall"
+    }
+  },
+  {
+    "img": {
+      "top": 53767,
+      "bottom": 54194,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мартиника",
+      "en": "Martinique",
+      "es": "Martinica",
+      "cn": "马提尼克",
+      "fr": "Martinique"
+    }
+  },
+  {
+    "img": {
+      "top": 54194,
+      "bottom": 54621,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мавритания",
+      "en": "Mauritania",
+      "es": "Mauritania",
+      "cn": "毛里塔尼亚",
+      "fr": "Mauritanie"
+    }
+  },
+  {
+    "img": {
+      "top": 54621,
+      "bottom": 55048,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Маврикий",
+      "en": "Mauritius",
+      "es": "Mauricio",
+      "cn": "毛里求斯",
+      "fr": "Île Maurice"
+    }
+  },
+  {
+    "img": {
+      "top": 55048,
+      "bottom": 55475,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Майотта",
+      "en": "Mayotte",
+      "es": "Mayotte",
+      "cn": "马约特",
+      "fr": "Mayotte"
+    }
+  },
+  {
+    "img": {
+      "top": 55475,
+      "bottom": 55841,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мексика",
+      "en": "Mexico",
+      "es": "México",
+      "cn": "墨西哥",
+      "fr": "Mexique"
+    }
+  },
+  {
+    "img": {
+      "top": 55841,
+      "bottom": 56178,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Федеративные Штаты Микронезии",
+      "en": "Micronesia",
+      "es": "Micronesia",
+      "cn": "密克罗尼西亚",
+      "fr": "Micronésie"
+    }
+  },
+  {
+    "img": {
+      "top": 56178,
+      "bottom": 56498,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Молдавия",
+      "en": "Moldova",
+      "es": "Moldavia",
+      "cn": "摩尔多瓦",
+      "fr": "Moldavie"
+    }
+  },
+  {
+    "img": {
+      "top": 56498,
+      "bottom": 57010,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Монако",
+      "en": "Monaco",
+      "es": "Mónaco",
+      "cn": "摩纳哥",
+      "fr": "Monaco"
+    }
+  },
+  {
+    "img": {
+      "top": 57010,
+      "bottom": 57330,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Монголия",
+      "en": "Mongolia",
+      "es": "Mongolia",
+      "cn": "蒙古",
+      "fr": "Mongolie"
+    }
+  },
+  {
+    "img": {
+      "top": 57330,
+      "bottom": 57650,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Черногория",
+      "en": "Montenegro",
+      "es": "Montenegro",
+      "cn": "黑山",
+      "fr": "Monténégro"
+    }
+  },
+  {
+    "img": {
+      "top": 57650,
+      "bottom": 57970,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Монтсеррат",
+      "en": "Montserrat",
+      "es": "Montserrat",
+      "cn": "蒙特塞拉特",
+      "fr": "Montserrat"
+    }
+  },
+  {
+    "img": {
+      "top": 57970,
+      "bottom": 58397,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Марокко",
+      "en": "Morocco",
+      "es": "Marruecos",
+      "cn": "摩洛哥",
+      "fr": "Maroc"
+    }
+  },
+  {
+    "img": {
+      "top": 58397,
+      "bottom": 58824,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мозамбик",
+      "en": "Mozambique",
+      "es": "Mozambique",
+      "cn": "莫桑比克",
+      "fr": "Mozambique"
+    }
+  },
+  {
+    "img": {
+      "top": 58824,
+      "bottom": 59251,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Мьянма",
+      "en": "Myanmar",
+      "es": "Myanmar",
+      "cn": "缅甸",
+      "fr": "Birmanie"
+    }
+  },
+  {
+    "img": {
+      "top": 59251,
+      "bottom": 59678,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Намибия",
+      "en": "Namibia",
+      "es": "Namibia",
+      "cn": "纳米比亚",
+      "fr": "Namibie"
+    }
+  },
+  {
+    "img": {
+      "top": 59678,
+      "bottom": 59998,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Науру",
+      "en": "Nauru",
+      "es": "Nauru",
+      "cn": "瑙鲁",
+      "fr": "Nauru"
+    }
+  },
+  {
+    "img": {
+      "top": 59998,
+      "bottom": 60778,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Непал",
+      "en": "Nepal",
+      "es": "Nepal",
+      "cn": "尼泊尔",
+      "fr": "Népal"
+    }
+  },
+  {
+    "img": {
+      "top": 60778,
+      "bottom": 61205,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Нидерланды",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "cn": "荷兰",
+      "fr": "Pays-Bas"
+    }
+  },
+  {
+    "img": {
+      "top": 61205,
+      "bottom": 61525,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Новая Каледония",
+      "en": "New Caledonia",
+      "es": "Nueva Caledonia",
+      "cn": "新喀里多尼亚",
+      "fr": "Nouvelle-Calédonie"
+    }
+  },
+  {
+    "img": {
+      "top": 61525,
+      "bottom": 61845,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Новая Зеландия",
+      "en": "New Zealand",
+      "es": "Nueva Zelanda",
+      "cn": "新西兰",
+      "fr": "Nouvelle-Zélande"
+    }
+  },
+  {
+    "img": {
+      "top": 61845,
+      "bottom": 62229,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Никарагуа",
+      "en": "Nicaragua",
+      "es": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "fr": "Nicaragua"
+    }
+  },
+  {
+    "img": {
+      "top": 62229,
+      "bottom": 62778,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Нигер",
+      "en": "Niger",
+      "es": "Níger",
+      "cn": "尼日尔",
+      "fr": "Niger"
+    }
+  },
+  {
+    "img": {
+      "top": 62778,
+      "bottom": 63098,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Нигерия",
+      "en": "Nigeria",
+      "es": "Nigeria",
+      "cn": "尼日利亚",
+      "fr": "Nigéria"
+    }
+  },
+  {
+    "img": {
+      "top": 63098,
+      "bottom": 63418,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ниуэ",
+      "en": "Niue",
+      "es": "Niue",
+      "cn": "纽埃",
+      "fr": "Niue"
+    }
+  },
+  {
+    "img": {
+      "top": 63418,
+      "bottom": 63738,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Норфолк",
+      "en": "Norfolk Island",
+      "es": "Isla de Norfolk",
+      "cn": "诺福克岛",
+      "fr": "Île Norfolk"
+    }
+  },
+  {
+    "img": {
+      "top": 63738,
+      "bottom": 64058,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Северная Корея",
+      "en": "North Korea",
+      "es": "Corea del Norte",
+      "cn": "朝鲜",
+      "fr": "Corée du Nord"
+    }
+  },
+  {
+    "img": {
+      "top": 64058,
+      "bottom": 64378,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Северная Македония",
+      "en": "North Macedonia",
+      "es": "Macedonia del Norte",
+      "cn": "北馬其頓",
+      "fr": "Macédoine du Nord"
+    }
+  },
+  {
+    "img": {
+      "top": 64698,
+      "bottom": 65018,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Северные Марианские острова",
+      "en": "Northern Mariana Islands",
+      "es": "Islas Marianas del Norte",
+      "cn": "北马里亚纳群岛",
+      "fr": "Îles Mariannes du Nord"
+    }
+  },
+  {
+    "img": {
+      "top": 65018,
+      "bottom": 65483,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Норвегия",
+      "en": "Norway",
+      "es": "Noruega",
+      "cn": "挪威",
+      "fr": "Norvège"
+    }
+  },
+  {
+    "img": {
+      "top": 65483,
+      "bottom": 65995,
+      "left": 0,
+      "right": 1024
+    },
+    "name": {
+      "ru": "Оман",
+      "en": "Oman",
+      "es": "Omán",
+      "cn": "阿曼",
+      "fr": "Oman"
+    }
+  },
+  {
+    "img": {
+      "top": 65995,
+      "bottom": 66422,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Пакистан",
+      "en": "Pakistan",
+      "es": "Pakistán",
+      "cn": "巴基斯坦",
+      "fr": "Pakistan"
+    }
+  },
+  {
+    "img": {
+      "top": 66422,
+      "bottom": 66822,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Палау",
+      "en": "Palau",
+      "es": "Palau",
+      "cn": "帕劳",
+      "fr": "Palaos (Palau)"
+    }
+  },
+  {
+    "img": {
+      "top": 66822,
+      "bottom": 67142,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Палестина",
+      "en": "Palestine",
+      "es": "Palestina",
+      "cn": "巴勒斯坦",
+      "fr": "Palestine"
+    }
+  },
+  {
+    "img": {
+      "top": 67142,
+      "bottom": 67569,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Панама",
+      "en": "Panama",
+      "es": "Panamá",
+      "cn": "巴拿马",
+      "fr": "Panama"
+    }
+  },
+  {
+    "img": {
+      "top": 67569,
+      "bottom": 68049,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Папуа — Новая Гвинея",
+      "en": "Papua New Guinea",
+      "es": "Papúa Nueva Guinea",
+      "cn": "巴布亚新几内亚",
+      "fr": "Papouasie-Nouvelle-Guinée"
+    }
+  },
+  {
+    "img": {
+      "top": 68049,
+      "bottom": 68401,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Парагвай",
+      "en": "Paraguay",
+      "es": "Paraguay",
+      "cn": "巴拉圭",
+      "fr": "Paraguay"
+    }
+  },
+  {
+    "img": {
+      "top": 68401,
+      "bottom": 68828,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Перу",
+      "en": "Peru",
+      "es": "Perú",
+      "cn": "秘鲁",
+      "fr": "Pérou"
+    }
+  },
+  {
+    "img": {
+      "top": 68828,
+      "bottom": 69148,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Филиппины",
+      "en": "Philippines",
+      "es": "Filipinas",
+      "cn": "菲律宾",
+      "fr": "Philippines"
+    }
+  },
+  {
+    "img": {
+      "top": 69148,
+      "bottom": 69468,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Острова Питкэрн",
+      "en": "Pitcairn Islands",
+      "es": "Islas Pitcairn",
+      "cn": "皮特凯恩群岛",
+      "fr": "Îles Pitcairn"
+    }
+  },
+  {
+    "img": {
+      "top": 69468,
+      "bottom": 69868,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Польша",
+      "en": "Poland",
+      "es": "Polonia",
+      "cn": "波兰",
+      "fr": "Pologne"
+    }
+  },
+  {
+    "img": {
+      "top": 69868,
+      "bottom": 70295,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Португалия",
+      "en": "Portugal",
+      "es": "Portugal",
+      "cn": "葡萄牙",
+      "fr": "Portugal"
+    }
+  },
+  {
+    "img": {
+      "top": 70295,
+      "bottom": 70722,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Пуэрто-Рико",
+      "en": "Puerto Rico",
+      "es": "Puerto Rico",
+      "cn": "波多黎各",
+      "fr": "Porto Rico"
+    }
+  },
+  {
+    "img": {
+      "top": 70722,
+      "bottom": 70973,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Катар",
+      "en": "Qatar",
+      "es": "Catar",
+      "cn": "卡塔尔",
+      "fr": "Qatar"
+    }
+  },
+  {
+    "img": {
+      "top": 70973,
+      "bottom": 71400,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Республика Конго",
+      "en": "Republic of the Congo",
+      "es": "Congo",
+      "cn": "刚果",
+      "fr": "Congo"
+    }
+  },
+  {
+    "img": {
+      "top": 71400,
+      "bottom": 71827,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Румыния",
+      "en": "Romania",
+      "es": "Rumania",
+      "cn": "罗马尼亚",
+      "fr": "Roumanie"
+    }
+  },
+  {
+    "img": {
+      "top": 71827,
+      "bottom": 72254,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Реюньон",
+      "en": "Réunion",
+      "es": "Reunión",
+      "cn": "留尼旺岛",
+      "fr": "Réunion"
+    }
+  },
+  {
+    "img": {
+      "top": 72254,
+      "bottom": 72681,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Россия",
+      "en": "Russia",
+      "es": "Rusia",
+      "cn": "俄罗斯",
+      "fr": "Russie"
+    }
+  },
+  {
+    "img": {
+      "top": 72681,
+      "bottom": 73108,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Руанда",
+      "en": "Rwanda",
+      "es": "Ruanda",
+      "cn": "卢旺达",
+      "fr": "Rwanda"
+    }
+  },
+  {
+    "img": {
+      "top": 73108,
+      "bottom": 73535,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сен-Бартелеми",
+      "en": "Saint Barthélemy",
+      "es": "San Bartolomé",
+      "cn": "圣巴泰勒米",
+      "fr": "Saint-Barthélemy"
+    }
+  },
+  {
+    "img": {
+      "top": 73535,
+      "bottom": 73855,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "es": "Santa Elena, Ascensión y Tristán de Acuña",
+      "cn": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+      "fr": "Sainte-Hélène, Ascension et Tristan da Cunha"
+    }
+  },
+  {
+    "img": {
+      "top": 73855,
+      "bottom": 74282,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сент-Китс и Невис",
+      "en": "Saint Kitts and Nevis",
+      "es": "San Cristóbal y Nieves",
+      "cn": "圣基茨和尼维斯",
+      "fr": "Saint-Christophe-et-Niévès"
+    }
+  },
+  {
+    "img": {
+      "top": 74282,
+      "bottom": 74602,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сент-Люсия",
+      "en": "Saint Lucia",
+      "es": "Santa Lucía",
+      "cn": "圣卢西亚",
+      "fr": "Sainte-Lucie"
+    }
+  },
+  {
+    "img": {
+      "top": 74602,
+      "bottom": 75029,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сен-Мартен",
+      "en": "Saint Martin",
+      "es": "Saint Martin",
+      "cn": "圣马丁",
+      "fr": "Saint-Martin"
+    }
+  },
+  {
+    "img": {
+      "top": 75029,
+      "bottom": 75456,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сен-Пьер и Микелон",
+      "en": "Saint Pierre and Miquelon",
+      "es": "San Pedro y Miquelón",
+      "cn": "圣皮埃尔和密克隆",
+      "fr": "Saint-Pierre-et-Miquelon"
+    }
+  },
+  {
+    "img": {
+      "top": 75456,
+      "bottom": 75883,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сент-Винсент и Гренадины",
+      "en": "Saint Vincent and the Grenadines",
+      "es": "San Vicente y Granadinas",
+      "cn": "圣文森特和格林纳丁斯",
+      "fr": "Saint-Vincent-et-les-Grenadines"
+    }
+  },
+  {
+    "img": {
+      "top": 75883,
+      "bottom": 76203,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Самоа",
+      "en": "Samoa",
+      "es": "Samoa",
+      "cn": "萨摩亚",
+      "fr": "Samoa"
+    }
+  },
+  {
+    "img": {
+      "top": 76203,
+      "bottom": 76683,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сан-Марино",
+      "en": "San Marino",
+      "es": "San Marino",
+      "cn": "圣马力诺",
+      "fr": "Saint-Marin"
+    }
+  },
+  {
+    "img": {
+      "top": 76683,
+      "bottom": 77110,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Саудовская Аравия",
+      "en": "Saudi Arabia",
+      "es": "Arabia Saudí",
+      "cn": "沙特阿拉伯",
+      "fr": "Arabie Saoudite"
+    }
+  },
+  {
+    "img": {
+      "top": 77494,
+      "bottom": 77921,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сенегал",
+      "en": "Senegal",
+      "es": "Senegal",
+      "cn": "塞内加尔",
+      "fr": "Sénégal"
+    }
+  },
+  {
+    "img": {
+      "top": 77921,
+      "bottom": 78348,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сербия",
+      "en": "Serbia",
+      "es": "Serbia",
+      "cn": "塞尔维亚",
+      "fr": "Serbie"
+    }
+  },
+  {
+    "img": {
+      "top": 78348,
+      "bottom": 78668,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сейшельские Острова",
+      "en": "Seychelles",
+      "es": "Seychelles",
+      "cn": "塞舌尔",
+      "fr": "Seychelles"
+    }
+  },
+  {
+    "img": {
+      "top": 78668,
+      "bottom": 79095,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сьерра-Леоне",
+      "en": "Sierra Leone",
+      "es": "Sierra Leone",
+      "cn": "塞拉利昂",
+      "fr": "Sierra Leone"
+    }
+  },
+  {
+    "img": {
+      "top": 79095,
+      "bottom": 79522,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сингапур",
+      "en": "Singapore",
+      "es": "Singapur",
+      "cn": "新加坡共和国",
+      "fr": "Singapour"
+    }
+  },
+  {
+    "img": {
+      "top": 79522,
+      "bottom": 79949,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Синт-Мартен",
+      "en": "Sint Maarten",
+      "es": "Sint Maarten",
+      "cn": "圣马丁岛",
+      "fr": "Saint-Martin"
+    }
+  },
+  {
+    "img": {
+      "top": 79949,
+      "bottom": 80376,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Словакия",
+      "en": "Slovakia",
+      "es": "República Eslovaca",
+      "cn": "斯洛伐克",
+      "fr": "Slovaquie"
+    }
+  },
+  {
+    "img": {
+      "top": 80376,
+      "bottom": 80696,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Словения",
+      "en": "Slovenia",
+      "es": "Eslovenia",
+      "cn": "斯洛文尼亚",
+      "fr": "Slovénie"
+    }
+  },
+  {
+    "img": {
+      "top": 80696,
+      "bottom": 81016,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сан-Томе и Принсипи",
+      "en": "São Tomé and Príncipe",
+      "es": "Santo Tomé y Príncipe",
+      "cn": "圣多美和普林西比",
+      "fr": "São Tomé et Príncipe"
+    }
+  },
+  {
+    "img": {
+      "top": 81016,
+      "bottom": 81336,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Соломоновы Острова",
+      "en": "Solomon Islands",
+      "es": "Islas Salomón",
+      "cn": "所罗门群岛",
+      "fr": "Îles Salomon"
+    }
+  },
+  {
+    "img": {
+      "top": 81336,
+      "bottom": 81763,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сомали",
+      "en": "Somalia",
+      "es": "Somalia",
+      "cn": "索马里",
+      "fr": "Somalie"
+    }
+  },
+  {
+    "img": {
+      "top": 81763,
+      "bottom": 82190,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Южная Африка",
+      "en": "South Africa",
+      "es": "Sudáfrica",
+      "cn": "南非",
+      "fr": "Afrique du Sud"
+    }
+  },
+  {
+    "img": {
+      "top": 82190,
+      "bottom": 82510,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Южная Георгия и Южные Сандвичевы острова",
+      "en": "South Georgia",
+      "es": "Islas Georgias del Sur y Sandwich del Sur",
+      "cn": "南乔治亚",
+      "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+    }
+  },
+  {
+    "img": {
+      "top": 82510,
+      "bottom": 82937,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Южная Корея",
+      "en": "South Korea",
+      "es": "Corea del Sur",
+      "cn": "韩国",
+      "fr": "Corée du Sud"
+    }
+  },
+  {
+    "img": {
+      "top": 82937,
+      "bottom": 83257,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Южный Судан",
+      "en": "South Sudan",
+      "es": "Sudán del Sur",
+      "cn": "南苏丹",
+      "fr": "Soudan du Sud"
+    }
+  },
+  {
+    "img": {
+      "top": 83257,
+      "bottom": 83684,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Испания",
+      "en": "Spain",
+      "es": "España",
+      "cn": "西班牙",
+      "fr": "Espagne"
+    }
+  },
+  {
+    "img": {
+      "top": 83684,
+      "bottom": 84004,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Шри-Ланка",
+      "en": "Sri Lanka",
+      "es": "Sri Lanka",
+      "cn": "斯里兰卡",
+      "fr": "Sri Lanka"
+    }
+  },
+  {
+    "img": {
+      "top": 84004,
+      "bottom": 84324,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Судан",
+      "en": "Sudan",
+      "es": "Sudán",
+      "cn": "苏丹",
+      "fr": "Soudan"
+    }
+  },
+  {
+    "img": {
+      "top": 84324,
+      "bottom": 84751,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Суринам",
+      "en": "Suriname",
+      "es": "Surinam",
+      "cn": "苏里南",
+      "fr": "Surinam"
+    }
+  },
+  {
+    "img": {
+      "top": 84751,
+      "bottom": 85216,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Шпицберген и Ян-Майен",
+      "en": "Svalbard and Jan Mayen",
+      "es": "Islas Svalbard y Jan Mayen",
+      "cn": "斯瓦尔巴特",
+      "fr": "Svalbard et Jan Mayen"
+    }
+  },
+  {
+    "img": {
+      "top": 85216,
+      "bottom": 85616,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Швеция",
+      "en": "Sweden",
+      "es": "Suecia",
+      "cn": "瑞典",
+      "fr": "Suède"
+    }
+  },
+  {
+    "img": {
+      "top": 85616,
+      "bottom": 86256,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Швейцария",
+      "en": "Switzerland",
+      "es": "Suiza",
+      "cn": "瑞士",
+      "fr": "Suisse"
+    }
+  },
+  {
+    "img": {
+      "top": 86256,
+      "bottom": 86683,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Сирия",
+      "en": "Syria",
+      "es": "Siria",
+      "cn": "叙利亚",
+      "fr": "Syrie"
+    }
+  },
+  {
+    "img": {
+      "top": 86683,
+      "bottom": 87110,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Тайвань",
+      "en": "Taiwan",
+      "es": "Taiwán",
+      "cn": "Taiwan",
+      "fr": "Taïwan"
+    }
+  },
+  {
+    "img": {
+      "top": 87110,
+      "bottom": 87430,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Таджикистан",
+      "en": "Tajikistan",
+      "es": "Tayikistán",
+      "cn": "塔吉克斯坦",
+      "fr": "Tadjikistan"
+    }
+  },
+  {
+    "img": {
+      "top": 87430,
+      "bottom": 87857,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Танзания",
+      "en": "Tanzania",
+      "es": "Tanzania",
+      "cn": "坦桑尼亚",
+      "fr": "Tanzanie"
+    }
+  },
+  {
+    "img": {
+      "top": 87857,
+      "bottom": 88284,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Таиланд",
+      "en": "Thailand",
+      "es": "Tailandia",
+      "cn": "泰国",
+      "fr": "Thaïlande"
+    }
+  },
+  {
+    "img": {
+      "top": 88284,
+      "bottom": 88604,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Восточный Тимор",
+      "en": "Timor-Leste",
+      "es": "Timor Oriental",
+      "cn": "东帝汶",
+      "fr": "Timor oriental"
+    }
+  },
+  {
+    "img": {
+      "top": 88604,
+      "bottom": 89000,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Того",
+      "en": "Togo",
+      "es": "Togo",
+      "cn": "多哥",
+      "fr": "Togo"
+    }
+  },
+  {
+    "img": {
+      "top": 89000,
+      "bottom": 89320,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Токелау",
+      "en": "Tokelau",
+      "es": "Islas Tokelau",
+      "cn": "托克劳",
+      "fr": "Tokelau"
+    }
+  },
+  {
+    "img": {
+      "top": 89320,
+      "bottom": 89640,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Тонга",
+      "en": "Tonga",
+      "es": "Tonga",
+      "cn": "汤加",
+      "fr": "Tonga"
+    }
+  },
+  {
+    "img": {
+      "top": 89640,
+      "bottom": 90024,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Тринидад и Тобаго",
+      "en": "Trinidad and Tobago",
+      "es": "Trinidad y Tobago",
+      "cn": "特立尼达和多巴哥",
+      "fr": "Trinité-et-Tobago"
+    }
+  },
+  {
+    "img": {
+      "top": 90024,
+      "bottom": 90451,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Тунис",
+      "en": "Tunisia",
+      "es": "Túnez",
+      "cn": "突尼斯",
+      "fr": "Tunisie"
+    }
+  },
+  {
+    "img": {
+      "top": 90451,
+      "bottom": 90878,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Турция",
+      "en": "Turkey",
+      "es": "Turquía",
+      "cn": "土耳其",
+      "fr": "Turquie"
+    }
+  },
+  {
+    "img": {
+      "top": 90878,
+      "bottom": 91305,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Туркмения",
+      "en": "Turkmenistan",
+      "es": "Turkmenistán",
+      "cn": "土库曼斯坦",
+      "fr": "Turkménistan"
+    }
+  },
+  {
+    "img": {
+      "top": 91305,
+      "bottom": 91625,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Теркс и Кайкос",
+      "en": "Turks and Caicos Islands",
+      "es": "Islas Turks y Caicos",
+      "cn": "特克斯和凯科斯群岛",
+      "fr": "Îles Turques-et-Caïques"
+    }
+  },
+  {
+    "img": {
+      "top": 91625,
+      "bottom": 91945,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Тувалу",
+      "en": "Tuvalu",
+      "es": "Tuvalu",
+      "cn": "图瓦卢",
+      "fr": "Tuvalu"
+    }
+  },
+  {
+    "img": {
+      "top": 91945,
+      "bottom": 92372,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Уганда",
+      "en": "Uganda",
+      "es": "Uganda",
+      "cn": "乌干达",
+      "fr": "Ouganda"
+    }
+  },
+  {
+    "img": {
+      "top": 92372,
+      "bottom": 92799,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Украина",
+      "en": "Ukraine",
+      "es": "Ucrania",
+      "cn": "乌克兰",
+      "fr": "Ukraine"
+    }
+  },
+  {
+    "img": {
+      "top": 92799,
+      "bottom": 93119,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Объединённые Арабские Эмираты",
+      "en": "United Arab Emirates",
+      "es": "Emiratos Árabes Unidos",
+      "cn": "阿拉伯联合酋长国",
+      "fr": "Émirats arabes unis"
+    }
+  },
+  {
+    "img": {
+      "top": 93119,
+      "bottom": 93439,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Великобритания",
+      "en": "United Kingdom",
+      "es": "Reino Unido",
+      "cn": "英国",
+      "fr": "Royaume-Uni"
+    }
+  },
+  {
+    "img": {
+      "top": 93439,
+      "bottom": 93776,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Соединённые Штаты Америки",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "cn": "美国",
+      "fr": "États-Unis"
+    }
+  },
+  {
+    "img": {
+      "top": 93776,
+      "bottom": 94113,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Внешние малые острова США",
+      "en": "United States Minor Outlying Islands",
+      "es": "Islas Ultramarinas Menores de Estados Unidos",
+      "cn": "美国本土外小岛屿",
+      "fr": "Îles mineures éloignées des États-Unis"
+    }
+  },
+  {
+    "img": {
+      "top": 94113,
+      "bottom": 94540,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Виргинские Острова",
+      "en": "United States Virgin Islands",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "cn": "美属维尔京群岛",
+      "fr": "Îles Vierges des États-Unis"
+    }
+  },
+  {
+    "img": {
+      "top": 94540,
+      "bottom": 94967,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Уругвай",
+      "en": "Uruguay",
+      "es": "Uruguay",
+      "cn": "乌拉圭",
+      "fr": "Uruguay"
+    }
+  },
+  {
+    "img": {
+      "top": 94967,
+      "bottom": 95287,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Узбекистан",
+      "en": "Uzbekistan",
+      "es": "Uzbekistán",
+      "cn": "乌兹别克斯坦",
+      "fr": "Ouzbékistan"
+    }
+  },
+  {
+    "img": {
+      "top": 95287,
+      "bottom": 95671,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Вануату",
+      "en": "Vanuatu",
+      "es": "Vanuatu",
+      "cn": "瓦努阿图",
+      "fr": "Vanuatu"
+    }
+  },
+  {
+    "img": {
+      "top": 95671,
+      "bottom": 96311,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Ватикан",
+      "en": "Vatican City",
+      "es": "Ciudad del Vaticano",
+      "cn": "梵蒂冈",
+      "fr": "Cité du Vatican"
+    }
+  },
+  {
+    "img": {
+      "top": 96311,
+      "bottom": 96738,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Венесуэла",
+      "en": "Venezuela",
+      "es": "Venezuela",
+      "cn": "委内瑞拉",
+      "fr": "Venezuela"
+    }
+  },
+  {
+    "img": {
+      "top": 96738,
+      "bottom": 97165,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Вьетнам",
+      "en": "Vietnam",
+      "es": "Vietnam",
+      "cn": "越南",
+      "fr": "Viêt Nam"
+    }
+  },
+  {
+    "img": {
+      "top": 97549,
+      "bottom": 97976,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Уоллис и Футуна",
+      "en": "Wallis and Futuna",
+      "es": "Wallis y Futuna",
+      "cn": "瓦利斯和富图纳群岛",
+      "fr": "Wallis-et-Futuna"
+    }
+  },
+  {
+    "img": {
+      "top": 97976,
+      "bottom": 98296,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Западная Сахара",
+      "en": "Western Sahara",
+      "es": "Sahara Occidental",
+      "cn": "西撒哈拉",
+      "fr": "Sahara Occidental"
+    }
+  },
+  {
+    "img": {
+      "top": 98296,
+      "bottom": 98723,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Йемен",
+      "en": "Yemen",
+      "es": "Yemen",
+      "cn": "也门",
+      "fr": "Yémen"
+    }
+  },
+  {
+    "img": {
+      "top": 98723,
+      "bottom": 99150,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Замбия",
+      "en": "Zambia",
+      "es": "Zambia",
+      "cn": "赞比亚",
+      "fr": "Zambie"
+    }
+  },
+  {
+    "img": {
+      "top": 99150,
+      "bottom": 99470,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Зимбабве",
+      "en": "Zimbabwe",
+      "es": "Zimbabue",
+      "cn": "津巴布韦",
+      "fr": "Zimbabwe"
+    }
+  },
+  {
+    "img": {
+      "top": 99470,
+      "bottom": 99888,
+      "left": 0,
+      "right": 640
+    },
+    "name": {
+      "ru": "Аландские острова",
+      "en": "Åland Islands",
+      "es": "Alandia",
+      "cn": "奥兰群岛",
+      "fr": "Ahvenanmaa"
+    }
+  }
+]
