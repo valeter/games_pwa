@@ -88,6 +88,7 @@ let currentLang = 'ru';
 let currentScore = 0;
 let bestScore = 0;
 let currentQuestion = null;
+let questionIndex = 0;
 
 function getBestScore() {
   return parseInt(localStorage.getItem('flags_quiz_best_score') || '0', 10);
@@ -104,7 +105,13 @@ function getCurrentLang() {
 function pickRandomQuestion() {
   // Выбираем тип вопроса: 0 — страна→флаг, 1 — флаг→страна
   const type = Math.random() < 0.5 ? 0 : 1;
-  const idx = Math.floor(Math.random() * flagsData.length);
+  if (questionIndex >= flagsData.length) {
+    questionIndex = 0;
+    shuffle(flagsData);
+  } else {
+    questionIndex = questionIndex + 1;
+  }
+  const idx = questionIndex + 1;
   const correct = flagsData[idx];
   const others = [];
   const used = new Set([idx]);
@@ -296,7 +303,15 @@ function renderScore() {
     scoreBar.style.letterSpacing = '0.5px';
     document.getElementById('game-container').appendChild(scoreBar);
   }
-  scoreBar.textContent = `Текущий счет: ${currentScore}   Лучший результат: ${bestScore}`;
+  const lang = getCurrentLang();
+  const scoreTexts = {
+    ru: `Текущий счет: ${currentScore}   Лучший результат: ${bestScore}`,
+    en: `Score: ${currentScore}   Best: ${bestScore}`,
+    es: `Puntuación: ${currentScore}   Mejor: ${bestScore}`,
+    cn: `分数: ${currentScore}   最高: ${bestScore}`,
+    fr: `Score: ${currentScore}   Meilleur: ${bestScore}`
+  };
+  scoreBar.textContent = scoreTexts[lang] || scoreTexts['en'];
 }
 
 function setupLanguageSelector() {
@@ -316,10 +331,28 @@ function setupLanguageSelector() {
   });
 }
 
+function shuffle(array) {
+  let currentIndex = array.length;
+
+  // While there remain elements to shuffle...
+  while (currentIndex != 0) {
+
+    // Pick a remaining element...
+    let randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    // And swap it with the current element.
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+}
+
 window.addEventListener('DOMContentLoaded', async () => {
   try {
     const { flagsJson, flagsImg: img } = await loadAssets();
     flagsData = flagsJson;
+    shuffle(flagsData);
+    questionIndex = 0;
     flagsImg = img;
     bestScore = getBestScore();
     setupLanguageSelector();

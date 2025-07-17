@@ -110,9 +110,9 @@ body {
   max-width: 90%;
   white-space: normal;
   text-align: center;
-  text-wrap-mode: wrap;
-  word-wrap: normal;
-  overflow-wrap: anywhere;
+  hyphens: none;
+  word-break: keep-all;
+  overflow-wrap: normal;
 }
 
 .country-option:hover {

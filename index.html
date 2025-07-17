@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games Menu</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background: #181c24;
+            margin: 0;
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+        h1 {
+            color: #fff;
+            margin-bottom: 40px;
+            font-size: 2.5rem;
+        }
+        .menu {
+            display: flex;
+            gap: 40px;
+        }
+        .game-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: #232a36;
+            border: none;
+            border-radius: 16px;
+            padding: 32px 40px;
+            cursor: pointer;
+            transition: background 0.2s, transform 0.2s;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+            text-decoration: none;
+        }
+        .game-btn:hover {
+            background: #2d3646;
+            transform: translateY(-4px) scale(1.04);
+        }
+        .game-icon {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 16px;
+        }
+        .game-title {
+            color: #fff;
+            font-size: 1.3rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu">
+        <a class="game-btn" href="flags/index.html">
+            <img class="game-icon" src="flags/assets/icon.png" alt="Flags icon">
+            <span class="game-title">Flags</span>
+        </a>
+        <a class="game-btn" href="cosmic ride/index.html">
+            <img class="game-icon" src="cosmic ride/assets/icon.png" alt="Cosmic Ride icon">
+            <span class="game-title">Cosmic Ride</span>
+        </a>
+    </div>
+</body>
+</html> 
