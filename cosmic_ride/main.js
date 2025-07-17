@@ -125,16 +125,12 @@ let targetShipX = null;
 let shipVX = 0;
 // --- CONTROL TUNING ---
 // Уменьшаем ускорение и максимальную скорость, увеличиваем демпфирование, уменьшаем дистанцию остановки
-const SHIP_ACCEL = 1800; // px/s^2 (было 3000)
-const SHIP_MAX_SPEED = 500; // px/s (было 900)
-const SHIP_STOP_DIST = 1.5; // px (было 4)
-const SHIP_DAMPING = 0.85; // (было 0.97)
+const SHIP_ACCEL = 1800 * scale; // px/s^2 (было 3000)
+const SHIP_MAX_SPEED = 500 * scale; // px/s (было 900)
+const SHIP_STOP_DIST = 1.5 * scale; // px (было 4)
+const SHIP_DAMPING = 0.85 * scale; // (было 0.97)
 
 function onPointerDown(e) {
-    if (isGameOver) {
-        resetGame();
-        return;
-    }
     isMoving = true;
     isControllingShip = true;
     targetShipX = clampShipX(e.touches ? e.touches[0].clientX : e.clientX);
@@ -142,6 +138,10 @@ function onPointerDown(e) {
 }
 
 function onPointerUp() {
+    if (isGameOver) {
+        resetGame();
+        return;
+    }
     isMoving = false;
     isControllingShip = false;
     targetShipX = null; // Останавливаем слежение за целью, но не сбрасываем скорость
@@ -690,4 +690,22 @@ function updateBackgroundMusic() {
             bgMusic.pause();
         }
     }
+}
+
+// --- Add missing resetGame implementation ---
+function resetGame() {
+    // Reset all game state variables
+    isGameOver = false;
+    lives = MAX_LIVES;
+    coinsCollected = 0;
+    shipVX = 0;
+    isMoving = false;
+    isControllingShip = false;
+    targetShipX = null;
+    resetShipPosition();
+    coins = [];
+    bomb = null;
+    explosions = [];
+    lastCoinSpawn = performance.now();
+    // Optionally reset other state if needed
 }
