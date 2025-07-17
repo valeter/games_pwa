@@ -41,10 +41,15 @@ function drawStars() {
     }
 }
 
+let scale = 1;
+if (window.innerWidth < 500) {
+    scale = 0.7;
+}
+
 // Ship parameters
-const SHIP_WIDTH = 100;
-const SHIP_HEIGHT = 100;
-const SHIP_MARGIN = 50;
+const SHIP_WIDTH = 100 * scale;
+const SHIP_HEIGHT = 100 * scale;
+const SHIP_MARGIN = 50 * scale;
 let shipX = 0;
 let shipY = 0;
 
@@ -118,10 +123,12 @@ function updateStars(delta) {
 let isControllingShip = false;
 let targetShipX = null;
 let shipVX = 0;
-const SHIP_ACCEL = 3000; // px/s^2
-const SHIP_MAX_SPEED = 900; // px/s
-const SHIP_STOP_DIST = 4; // px
-const SHIP_DAMPING = 0.97; // замедление при отпускании
+// --- CONTROL TUNING ---
+// Уменьшаем ускорение и максимальную скорость, увеличиваем демпфирование, уменьшаем дистанцию остановки
+const SHIP_ACCEL = 1800; // px/s^2 (было 3000)
+const SHIP_MAX_SPEED = 500; // px/s (было 900)
+const SHIP_STOP_DIST = 1.5; // px (было 4)
+const SHIP_DAMPING = 0.85; // (было 0.97)
 
 function onPointerDown(e) {
     if (isGameOver) {
@@ -159,9 +166,9 @@ function updateShip(delta) {
                 shipVX = dir * SHIP_MAX_SPEED;
             }
         } else {
-            // Близко к цели — замедляемся
-            shipVX *= SHIP_DAMPING;
-            if (Math.abs(shipVX) < 10) {
+            // Близко к цели — быстро гасим скорость и фиксируем позицию
+            shipVX *= 0.3; // Сильное демпфирование
+            if (Math.abs(shipVX) < 2) {
                 shipVX = 0;
                 shipX = targetShipX;
             }
@@ -169,7 +176,7 @@ function updateShip(delta) {
     } else {
         // Нет цели — замедляемся
         shipVX *= SHIP_DAMPING;
-        if (Math.abs(shipVX) < 10) shipVX = 0;
+        if (Math.abs(shipVX) < 2) shipVX = 0;
     }
     shipX += shipVX * (delta / 1000);
     shipX = clampShipX(shipX);
@@ -186,10 +193,10 @@ const COIN_FRAME_FILES = [
 ];
 const COIN_FRAME_COUNT = COIN_FRAME_FILES.length;
 const COIN_ANIMATION_SPEED = 10; // frames per second
-const COIN_WIDTH = 48;
-const COIN_HEIGHT = 48;
-const COIN_MARGIN = 100;
-const COIN_MIN_DIST = 100;
+const COIN_WIDTH = 48 * scale;
+const COIN_HEIGHT = 48 * scale;
+const COIN_MARGIN = 50 * scale;
+const COIN_MIN_DIST = 100 * scale;
 const COIN_SPAWN_INTERVAL = 500; // ms
 const COIN_MAX_ON_SCREEN = 5;
 
@@ -251,9 +258,9 @@ function drawCoinCounter() {
 }
 
 // Bomb parameters
-const BOMB_WIDTH = 64;
-const BOMB_HEIGHT = 64;
-const BOMB_MARGIN = 100;
+const BOMB_WIDTH = 64 * scale;
+const BOMB_HEIGHT = 64 * scale;
+const BOMB_MARGIN = 50;
 let bomb = null;
 let bombAngle = 0;
 
